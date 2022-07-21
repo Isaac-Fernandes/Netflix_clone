@@ -9,6 +9,6 @@
 
 - # Links e contatos:
 ## GitHub: https://github.com/Isaac-Fernandes
-## Repositório:
+## Repositório: https://github.com/Isaac-Fernandes/Netflix_clone
 ## Email: fernandes_isaac100@hotmail.com
 ## Instagram: https://www.instagram.com/isaac_fernandes1309/
